@@ -14,6 +14,7 @@
         <module>vertical-split-db</module>
         <module>public-table</module>
         <module>read-write-split</module>
+        <module>comprehensive-demo</module>
     </modules>
 
     <properties>

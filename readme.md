@@ -16,3 +16,7 @@
 
 ## 5.read-write-split 读写分离
 搭建主从集群
+
+## 6.comprehensive-demo 综合案例
+对商品进行分库分表与读写分离
+对商家进行读写分离
